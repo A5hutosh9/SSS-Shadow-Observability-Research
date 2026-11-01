@@ -1,0 +1,8 @@
+label,value,definition,required_evidence,annotator_notes
+shadow_status,visible,shadow clearly discernible and attributable to candidate target,adequate local context and visible shadow,record confidence
+shadow_status,weak,shadow-like evidence exists but is low contrast or poorly defined,local contrast and shape cues,avoid forcing binary label
+shadow_status,ambiguous,possible shadow but attribution is uncertain,competing explanations present,flag for adjudication
+shadow_status,displaced,shadow candidate exists but association/location is atypical or uncertain,document relative geometry,do not assume physical displacement without context
+shadow_status,unobservable,available evidence indicates shadow cannot reliably be assessed under these conditions,record reason and supporting cues,requires strict operational criteria
+shadow_status,not_assessable,insufficient context or image quality to decide,document missing context or corruption,distinct from unobservable
+shadow_status,no_shadow_evidence,adequate context exists but no attributable shadow evidence is found,adequate assessable region and no shadow,not equivalent to unobservable
