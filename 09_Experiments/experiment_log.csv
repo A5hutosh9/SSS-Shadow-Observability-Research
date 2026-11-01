@@ -1,0 +1,5 @@
+experiment_id,date,owner,question,split_version,model_or_method,config_path,seed,baseline,metrics,artifact_path,result_interpretation,status
+EXP001,,,,,,,,,detector_only,,,,planned
+EXP002,,,,,,,,,detector_plus_unconditional_shadow,,,,planned
+EXP003,,,,,,,,,hard_shadow_rejection,,,,planned
+EXP004,,,,,,,,,observability_conditioned_evidence,,,,planned
