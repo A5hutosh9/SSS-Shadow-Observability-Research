@@ -1,0 +1,30 @@
+paper,assigned_to,priority,topic,reason
+Grzadziel 2023 resolution and acoustic shadow,Researcher 1,P1,SSS physics,Directly addresses resolution-dependent shadow interpretation
+Si 2025 unsupervised shadow segmentation,Both (R1 lead),P1,Shadow segmentation,Direct prior art for shadow extraction
+Lee 2026 SE-OBB,Both (R1 lead),P1,Annotation and detection,Closest object-shadow structure prior art
+Yu 2026 physics-informed SSS perception,Both (R1 lead),P1,Physics-informed detection,Direct geometry and shadow-aware detection prior art
+Li 2025 acoustic illumination and shadow detection,Both (R1 lead),P1,Illumination and shadow,Major novelty threat; PDF not in current uploaded inventory
+Park and Bae 2025 beam-pattern shadow visibility,Both (R1 lead),P1,Shadow visibility,Far-range/beam-pattern issue; PDF not in current uploaded inventory
+Wang 2024 dual-domain multi-frequency SSS,Researcher 1,P2,Detection,SSS target detection features
+Tang 2023 AUV SSS real-time detection,Researcher 1,P2,Detection,Real-time SSS target detection
+Yang 2022 few-sample SSS segmentation,Researcher 1,P2,Segmentation,Few-sample SSS segmentation
+Yang 2022 multi-channel CNN SSS segmentation,Researcher 1,P2,Segmentation,SSS segmentation
+Sethuraman 2025 shipwreck SSS segmentation benchmark,Researcher 1,P2,Dataset and segmentation,Dataset/benchmark relevance
+Yang 2024 topology SSS image matching,Researcher 1,P3,Image matching,Potentially useful for spatial association
+Liu 2023 SSS image quality deconvolution,Researcher 1,P3,Image quality,Image-quality effects
+Motylinski 2025 computer vision SSS review,Researcher 1,P2,Review,Map methods and terminology
+Qiao 2026 SSS target detection review,Researcher 1,P2,Review,Map SSS detection approaches
+Andeol 2023 conformal object detection,Researcher 2,P1,Conformal prediction,Transferable object-detection calibration
+Angelopoulos conformal risk control,Researcher 2,P1,Risk control,Understand risk definition and assumptions
+Mallick 2021 FLS patch matching uncertainty,Researcher 2,P2,Sonar uncertainty,FLS rather than SSS; transfer cautiously
+Basha 2026 context-adaptive sonar fusion,Researcher 2,P1,Context-adaptive fusion,Close prior art for shadow/highlight context use
+Natarajan 2024 LIME sonar classification,Researcher 2,P3,XAI,Explainability context; classification
+Xiao 2025 CKAN-YOLOv8 SSS,Researcher 2,P2,Detection and segmentation,SSS multi-task baseline
+Xie 2026 presence-aware SSS detection,Researcher 2,P2,Detection,Target-presence-aware detection
+Zou 2025 YOLOv11 SSS small objects,Researcher 2,P2,Detection,Small-target baseline
+Wen 2024 YOLOv7 attention SSS,Researcher 2,P2,Detection,SSS detection baseline; 80.5 MB PDF
+Yu 2022 sonar target detection,Researcher 2,P3,Detection,Broad sonar paper; confirm modality
+Zhu 2024 CC-WGAN SSS augmentation,Researcher 2,P3,Augmentation,Data augmentation
+Yang and Zhang 2026 diffusion SSS augmentation,Researcher 2,P3,Augmentation,Generative augmentation
+Weakly supervised SSS seafloor segmentation 2026,Researcher 1,P3,Segmentation,Habitat mapping; adjacent task
+Palomeras 2022 FLS ATR,Researcher 2,P3,ATR,FLS rather than SSS; contextual only
