@@ -1,0 +1,2 @@
+# Add tested and pinned dependencies after selecting the baseline framework.
+# Keep in sync with the reproducibility environment record.
