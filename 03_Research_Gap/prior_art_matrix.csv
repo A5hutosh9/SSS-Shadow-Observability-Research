@@ -1,0 +1,6 @@
+paper_id,year,method_scope,shadow_representation,observability_definition,verification_strategy,uncertainty_handling,datasets,reported_limitations,overlap_with_proposal,open_question,full_text_checked
+Li2025,2025,illumination and shadow characteristics,,,,,,,,,no
+Yu2026,2026,physics-informed target perception,,,,,,,,,no
+SEOBB2026,2026,structure-aware object-shadow annotations and detection,,,,,,,,,no
+Si2025,2025,unsupervised shadow detection and segmentation,,,,,,,,,no
+PhysDNet2026,2026,physics-guided SSS decomposition,,,,,,,,,no
